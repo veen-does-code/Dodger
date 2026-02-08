@@ -26,6 +26,8 @@ This project focuses on combining clean UI design with interactive frontend func
 
 👉 Responsive Design – Built to adapt across different screen sizes.
 
+👉 Hosting service - Hosted live using vercel
+
 **📌 Technologies Used**
 
 
@@ -34,6 +36,8 @@ HTML5 – Website structure
 CSS – Styling, gradients, layouts, and animations
 
 JavaScript – Interactivity, session handling, DOM manipulation
+
+Vercel - Deployment and hosting 
 
 **📌 Project Structure**
 
